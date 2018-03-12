@@ -77,6 +77,9 @@ Com a chegada da uber a novos países, cidades e continentes, o crescimento do s
 Migraram também para GO a implementação do escalonamento da CPU, houve um ganho de 85%. Ajudando a reduzir a quantidade de workersnodes necessários. 
 
 
+![cpu](https://user-images.githubusercontent.com/13456954/37305378-071392bc-2613-11e8-8b52-1149705ba8ae.png)
+
+
 **_“Half the company thought this was stupid.”—Adrian Cockcroft, former Netflix cloud architect_**
 
 
