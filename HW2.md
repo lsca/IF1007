@@ -11,7 +11,6 @@ Infrastructure services implement non-functional tasks such as authentication, a
  
  
 ![2 imagem](https://user-images.githubusercontent.com/13456954/37304552-a8fd8d88-2610-11e8-8c2e-86ee3163093b.jpg)
- 
 ![3 imagem](https://user-images.githubusercontent.com/13456954/37304554-a92f6970-2610-11e8-911c-896c69d8feb9.png)
 ![4 imagem](https://user-images.githubusercontent.com/13456954/37304556-a95d15dc-2610-11e8-9003-1d89fb1c972e.png)
 
@@ -95,15 +94,15 @@ Migraram também para GO a implementação do escalonamento da CPU, houve um gan
 
 
 
-Referências:
-https://thenewstack.io/led-amazon-microservices-architecture/<p>
-https://12factor.net/pt_br/
-http://www.clearlytech.com/2014/01/04/12-factor-apps-plain-english/
-http://www.bmc.com/blogs/microservices-vs-soa-whats-difference/
-https://thenewstack.io/led-amazon-microservices-architecture/
-https://eng.uber.com/schemaless-rewrite/
-http://highscalability.com/blog/2016/10/12/lessons-learned-from-scaling-uber-to-2000-engineers-1000-ser.html
-https://wemakeappsgo.f5.com/cloud/why-netflix-bet-and-won-on-cloud-based-microservices/
+Referências:<br>
+https://thenewstack.io/led-amazon-microservices-architecture/<br>
+https://12factor.net/pt_br/<br>
+http://www.clearlytech.com/2014/01/04/12-factor-apps-plain-english/<br>
+http://www.bmc.com/blogs/microservices-vs-soa-whats-difference/<br>
+https://thenewstack.io/led-amazon-microservices-architecture/<br>
+https://eng.uber.com/schemaless-rewrite/<br>
+http://highscalability.com/blog/2016/10/12/lessons-learned-from-scaling-uber-to-2000-engineers-1000-ser.html<br>
+https://wemakeappsgo.f5.com/cloud/why-netflix-bet-and-won-on-cloud-based-microservices/<br>
 
 
 
