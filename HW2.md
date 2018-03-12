@@ -94,7 +94,7 @@ Migraram também para GO a implementação do escalonamento da CPU, houve um gan
 
 
 
-Referências:<br>
+# Referências:<br>
 https://thenewstack.io/led-amazon-microservices-architecture/<br>
 https://12factor.net/pt_br/<br>
 http://www.clearlytech.com/2014/01/04/12-factor-apps-plain-english/<br>
