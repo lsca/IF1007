@@ -68,16 +68,22 @@ Com a chegada da uber a novos países, cidades e continentes, o crescimento do s
 “That's crazy 10x growth in a crazy short period of time. Who has experienced that? Not many. And as you might expect that sort of unique, compressed, fast paced, high stakes experience has to teach you something new, something deeper than you understood before.”
 “Scaling the traffic is not the issue. Scaling the team and the product feature release rate is the primary driver.”
 
+Migraram também para GO a implementação do escalonamento da CPU, houve um ganho de 85%. Ajudando a reduzir a quantidade de workersnodes necessários. 
+![cpu](https://user-images.githubusercontent.com/13456954/37305378-071392bc-2613-11e8-8b52-1149705ba8ae.png)
+
+
+"Project Frontless showed that it is possible for us to rewrite a critical system in an entirely new language with zero downtime. By re-implementing the service without changing any of Schemaless’ existing clients, we were able to implement, validate, and enable an endpoint within days instead of weeks or months. Specifically, the validation process (in which new endpoints were compared against existing implementations in production) gave us confidence that Frontless and Schemaless workers would surface the same results."
+
+
+
 ## Netflix (https://www.netflix.com/br/)
 
 "In 2014, Uber Engineering built Schemaless, our fault-tolerant and scalable datastore, to facilitate the rapid growth of our company. For context, we deployed more than 40 Schemaless instances and many thousands of storage nodes in 2016 alone."
 
 “When Netflix morphed from being a snail-mail DVD delivery service to a streaming media powerhouse, the company knew it had to make fundamental changes. For one, it needed to move out of its own data center and into the cloud. It also transitioned from a monolithic, Oracle-based database to a microservices architecture—which involves splitting apps into small modular processes that can be deployed independently. And through this process, Netflix underwent a cultural change, reorganizing its developers into smaller, product-focused teams.”
 
-Migraram também para GO a implementação do escalonamento da CPU, houve um ganho de 85%. Ajudando a reduzir a quantidade de workersnodes necessários. 
 
 
-![cpu](https://user-images.githubusercontent.com/13456954/37305378-071392bc-2613-11e8-8b52-1149705ba8ae.png)
 
 
 **_“Half the company thought this was stupid.”—Adrian Cockcroft, former Netflix cloud architect_**
