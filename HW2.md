@@ -96,7 +96,7 @@ Migraram também para GO a implementação do escalonamento da CPU, houve um gan
 
 
 Referências:
-https://thenewstack.io/led-amazon-microservices-architecture/
+https://thenewstack.io/led-amazon-microservices-architecture/<p>
 https://12factor.net/pt_br/
 http://www.clearlytech.com/2014/01/04/12-factor-apps-plain-english/
 http://www.bmc.com/blogs/microservices-vs-soa-whats-difference/
